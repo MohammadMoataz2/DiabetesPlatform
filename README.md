@@ -41,6 +41,7 @@ The pipeline for the Diabetes Platform is as follows:
 5. **User Interface:** User views the prediction results through the web application.
 6. **Power BI Dashboard:** Information is visualized and analyzed in Power BI dashboard.
 
+![image](https://github.com/MohammadMoataz2/KnowledgeKapture/assets/123085286/acae7689-fc02-4cad-ac80-80b92ca29494)
 
 ## Technologies Used
 
@@ -49,6 +50,10 @@ The pipeline for the Diabetes Platform is as follows:
 - **Machine Learning:** CatBoost for diabetes risk prediction.
 - **Database:** PostgreSQL for storing predicted information.
 - **Visualization:** Power BI for creating insightful dashboards and reports.
+- **Association Rule:** Power BI for creating insightful dashboards and reports.
+
+
+![image](https://github.com/MohammadMoataz2/KnowledgeKapture/assets/123085286/0abf9150-eedf-4189-b39b-325b73bee76c)
 
 ## Installation
 
